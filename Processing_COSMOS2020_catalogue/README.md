@@ -1,0 +1,3 @@
+#Files needed to run Reading_COSMOS2020_catalogue.ipynb
+
+It is necessary to download COSMOS2020 fits file (Farmer version used) from the website https://cosmos2020.calet.org/ and save it in the same folder as Reading_COSMOS2020_catalogue.ipynb. The exact version used in this project is "COSMOS2020_FARMER_R1_v2.2_p3.fits". It is also needed the files "extlaw_0.9.dat" and "SB_calzetti.dat" which will allow the code to take into account the extinction phenomenon. Light is absorbed and scattered by interstelllar dust. Both files contain information about the amount of this phenomenon for each wavelength.
