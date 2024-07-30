@@ -1,1 +1,1 @@
-
+To execute "KDE.ipynb" with the processed fits file two more columns are needed. It is necessary to run again "Reading_COSMOS2020_catalogue.fits" code adding the two next columns: "ACS_A_WORLD" and "ACS_B_WORLD".
