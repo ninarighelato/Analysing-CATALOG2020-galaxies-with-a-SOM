@@ -9,5 +9,6 @@ This project was developed in 2024 as part of the Institute for High Energy Phys
 
 Requirements:
 i) Python 3.8 or higher
+
 ii) Libraries: NumPy 2.0.0, Pandas, Matplotlib, Scikit-learn, astropy.
 
