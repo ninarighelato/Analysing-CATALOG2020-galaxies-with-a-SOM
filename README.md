@@ -8,6 +8,7 @@ Studying the galaxy distribution as a function of time is an important step for 
 This project was developed in 2024 as part of the Institute for High Energy Physics (IFAE) Summer Fellowship Program, focusing on the intersection of cosmology and machine learning.
 
 Requirements:
+
 i) Python 3.8 or higher
 
 ii) Libraries: NumPy 2.0.0, Pandas, Matplotlib, Scikit-learn, astropy.
